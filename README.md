@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is dgy, a undergrade computer science student in Southern University of Science and Technology.
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntdgy&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntdgy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
